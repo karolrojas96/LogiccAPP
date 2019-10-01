@@ -1,0 +1,2 @@
+# LogiccAPP
+curso platzi
